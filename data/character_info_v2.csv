@@ -49,19 +49,19 @@
 47,Atagoyama,915.0,,Sumo Wrestler,Alive,,0,0,0,0,,,,,,
 48,,,,,,,0,0,0,0,,,,,,
 49,Atmos,553.0,['Whitebeard Pirates'],13th Division Commander,Alive,March 19,0,0,0,0,West Blue,,,,,
-50,AtatchiAttach,436.0,"['World Economy News Paper', 'Marines']",Reporter,Unknown,,0,0,0,0,,,,,,
+50,Attach,436.0,"['World Economy News Paper', 'Marines']",Reporter,Unknown,,0,0,0,0,,,,,,
 51,Avalo Pizarro,575.0,"['Blackbeard Pirates', 'Impel Down']",Titanic Captain (Captain of the Fourth Ship),Alive,September 30,1,0,0,0,North Blue,40.0,505.0,X,Paramecia,0.0
 52,Eiyess Emmar,,['Marines'],Okaki artisan,Alive,,0,0,0,0,,,,,,
 53,Bean-Washing Hag,940.0,,,Alive,,0,0,0,0,,,,,,
 54,Babanuki,934.0,"['Beasts Pirates', 'Tama', 'Ninja-Pirate-Mink-Samurai Alliance']",Shinuchi,Alive,,1,0,0,0,,,,,Artificial Zoan,
 55,Babe,160.0,"['Spiders Cafe', 'Baroque Works']",Cafe Delivery Boy ,Alive,June 19,0,0,0,0,Grand Line,28.0,218.0,F,,3200000.0
 56,Baburu,690.0,,,Alive,,0,0,0,0,Grand Line,,,,,
-57,Baby 5Baby Five,682.0,"['Happo Navy', 'Chinjao Family', 'Straw Hat Grand Fleet', 'Donquixote Pirates']",Pirate,Alive,May 15,1,0,0,0,North Blue,24.0,181.0,XF,Paramecia,
-58,"Bacura,Bakula",516.0,['Kuja Pirates'],Pet,Alive,November 29,0,0,0,0,Calm Belt,,,,,
+57,Baby Five,682.0,"['Happo Navy', 'Chinjao Family', 'Straw Hat Grand Fleet', 'Donquixote Pirates']",Pirate,Alive,May 15,1,0,0,0,North Blue,24.0,181.0,XF,Paramecia,
+58,Bakula,516.0,['Kuja Pirates'],Pet,Alive,November 29,0,0,0,0,Calm Belt,,,,,
 59,Baggaly,561.0,['Whitebeard Pirates'],Pirate Captain,Alive,,0,0,0,0,,,,,,
 60,Bazeko,668.0,"['Marines', 'G-5']",Marine Officer,Alive,,0,0,0,0,,,,,,
 61,Ban Dedessinée,823.0,['Levely'],Queen of the Frauce Kingdom,Alive,,0,0,0,0,East Blue,,,,,
-62,BunchiBunch,114.0,['Baroque Works'],Transportation,Alive,,0,0,0,0,West Blue,,,,,
+62,Bunch,114.0,['Baroque Works'],Transportation,Alive,,0,0,0,0,West Blue,,,,,
 63,Bankina,41.0,,,Deceased,December 17,0,0,0,0,East Blue,,,,,
 64,Bancro,967.0,['Roger Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
 65,Banshee,552.0,['Spade Pirates'],,Alive,,0,0,0,0,,30.0,,,,
@@ -79,7 +79,7 @@
 77,Basilisk,528.0,"['World Government', 'Impel Down']",Level 2 Guardian,Alive,,0,0,0,0,West Blue,,,,,
 78,Bastille,553.0,['Marines'],Vice Admiral,Alive,July 14,0,1,1,0,Grand Line,36.0,291.0,F,,500000000.0
 79,Bacchy,43.0,,,Unknown,July 1,0,0,0,0,East Blue,,,,,
-80,Bat-ManBatman,914.0,['Beasts Pirates'],Gifter,Alive,,1,0,0,0,,,,,Artificial Zoan,
+80,Batman,914.0,['Beasts Pirates'],Gifter,Alive,,1,0,0,0,,,,,Artificial Zoan,
 81,Grasshopper-Man,980.0,"['Beasts Pirates', 'Kurozumi Tama']",Gifter,Alive,,1,0,0,0,,,,,Artificial Zoan,
 82,Baxcon,718.0,"['Tontatta Kingdom', 'Tontatta Pirates', 'Straw Hat Grand Fleet']",Scout ,Alive,,0,0,0,0,,,,,,
 83,Beak Remark,599.0,,Fishmonger,Alive,,0,0,0,0,,,,,,
@@ -90,7 +90,7 @@
 88,Belo Betty,904.0,['Revolutionary Army'],East Army Commander of the Revolutionary Army,Alive,June 15,1,1,1,0,East Blue,34.0,196.0,XF,Paramecia,457000000.0
 89,Belladonna,514.0,['Kuja'],Doctor,Alive,October 26,0,0,0,0,Calm Belt,,,,,
 90,Bellamy,222.0,"['Donquixote Pirates', 'Bellamy Pirates']",Dyer,Alive,August 7,1,1,1,0,North Blue,25.0,240.0,F,Paramecia,195000000.0
-91,BeretBellett,537.0,[],Pirate,Alive,,0,0,0,0,,,,,,
+91,Bellett,537.0,[],Pirate,Alive,,0,0,0,0,,,,,,
 92,Belle-Mère,77.0,['Marines'],Mikan Farmer,Deceased,December 3,0,0,0,0,East Blue,,186.0,S,,
 93,Benn Beckman,1.0,['Red Hair Pirates'],Pirate,Alive,November 9,0,0,0,0,North Blue,50.0,206.0,X,,0.0
 94,Bent,1134.0,['Walrus School'],Student,Alive,,0,0,0,0,,,,,,
@@ -151,7 +151,7 @@
 149,Brook,442.0,"['Straw Hat Pirates', 'Straw Hat Grand Fleet', 'Rumbar Pirates', 'Ninja-Pirate-Mink-Samurai Alliance']",Musician,Alive,April 3,1,0,0,0,West Blue,90.0,277.0,X,Paramecia,383000000.0
 150,Bubblegum,1029.0,['Kid Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
 151,Bouche,880.0,"['WCI 31', 'Big Mom Pirates']",Head Chef,Alive,,0,0,0,0,,,,,,
-152,ButchieBuchi,31.0,['Black Cat Pirates'],Pirate Officer,Alive,February 7,0,0,0,0,East Blue,21.0,216.0,X,,7000000.0
+152,Buchi,31.0,['Black Cat Pirates'],Pirate Officer,Alive,February 7,0,0,0,0,East Blue,21.0,216.0,X,,7000000.0
 153,Buckingham Stussy,802.0,"['Rocks Pirates', 'MADS']",Pirate (former),Alive,April 12,0,0,0,0,Grand Line,76.0,68.0,S,,
 154,Buffalo,692.0,['Donquixote Pirates'],Pirate Officer,Alive,April 8,1,0,0,0,North Blue,30.0,696.0,F,Paramecia,
 155,Buggy,9.0,"['Cross Guild', ""Buggy's Delivery"", 'Buggy Pirates', 'Buggy and Alvida Alliance', 'Four Emperors', 'Seven Warlords of the Sea', 'Roger Pirates', 'Impel Down']",Pirate Captain,Alive,August 8,1,0,0,0,Grand Line,39.0,130.0,F,Paramecia,3189000000.0
@@ -178,7 +178,7 @@
 176,Capote,306.0,['Foxy Pirates'],Pirate,Alive,May 1,0,0,0,0,,,,,,
 177,Caribou,600.0,"['Caribou Pirates', 'Fake Straw Hat Crew', 'Ninja-Pirate-Mink-Samurai Alliance']",Pirate Captain,Alive,July 4,1,0,0,0,North Blue,32.0,228.0,XF,Logia,210000000.0
 178,Carmel,861.0,['Underworld'],Child Trafficker,Deceased,December 21,1,0,0,0,West Blue,,185.0,S,Paramecia,
-179,CarneCarny,45.0,['Baratie'],Charcutier,Alive,February 9,0,0,0,0,East Blue,32.0,171.0,S,,
+179,Carne,45.0,['Baratie'],Charcutier,Alive,February 9,0,0,0,0,East Blue,32.0,171.0,S,,
 180,Carrot,804.0,"['Mokomo Dukedom', 'Inuarashi Musketeer Squad', 'Ninja-Pirate-Mink-Samurai Alliance']",Ruler of Mokomo Dukedom,Alive,May 24,0,0,0,0,Grand Line,15.0,161.0,F,,
 181,Catacombo,602.0,['Marines'],Rear Admiral,Alive,,0,0,0,0,,,,,,200000000.0
 182,Catarina Devon,575.0,"['Blackbeard Pirates', 'Impel Down']",Titanic Captain (Captain of the Sixth Ship),Alive,March 29,1,0,0,0,South Blue,34.0,361.0,F,Mythical Zoan,0.0
@@ -311,8 +311,8 @@
 309,Collun,1076.0,,,Alive,,0,0,0,0,,20.0,,,,
 310,Colscon,574.0,['Whitebeard Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
 311,Columbus,906.0,"['Yonta Maria Grand Fleet', 'Straw Hat Grand Fleet']",Pirate,Alive,May 16,0,0,0,0,,,,,,
-312,KomilleComille,289.0,"['Marines', 'G-2']",Vice Admiral,Alive,October 1,0,0,0,0,,,,,,500000000.0
-313,"Comp,Compo",1040.0,['Kid Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
+312,Comille,289.0,"['Marines', 'G-2']",Vice Admiral,Alive,October 1,0,0,0,0,,,,,,500000000.0
+313,Compo,1040.0,['Kid Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
 314,Concelot,809.0,"['Mokomo Dukedom', 'Inuarashi Musketeer Squad', 'Ninja-Pirate-Mink-Samurai Alliance']",Three Inuarashi Musketeers,Alive,November 2,0,0,0,0,Grand Line,29.0,204.0,F,,
 315,Conis,239.0,['Pumpkin Cafe'],Waitress,Alive,May 20,0,0,0,0,Grand Line,19.0,176.0,F,,
 316,Conney,1099.0,,Queen dowager of the Sorbet Kingdom,Alive,May 21,0,0,0,0,South Blue,76.0,7.0,XF,,
@@ -330,7 +330,7 @@
 328,Curiel,552.0,['Whitebeard Pirates'],10th Division Commander,Alive,September 12,0,0,0,0,Grand Line,,,,,
 329,Curly Dadan,440.0,['Dadan Family'],Mountain Bandit Boss,Alive,August 30,0,0,0,0,East Blue,43.0,221.0,X,,7800000.0
 330,Shirano,,['D.R.'],Swordsman,Deceased,,0,0,0,0,,,,,,
-331,D.R.DR,,['Cyrano'],Criminal,Deceased,,0,0,0,0,,,,,,1800000.0
+331,D.R.,,['Cyrano'],Criminal,Deceased,,0,0,0,0,,,,,,1800000.0
 332,,940.0,['Beasts Pirates'],Gifter,Alive,,1,0,0,0,,,,,Artificial Zoan,
 333,,79.0,['World Government'],Housefather,Alive,,0,0,0,0,East Blue,,,,,
 334,Dagama,704.0,['Prodence Kingdom'],Tactician,Alive,September 26,0,0,0,0,,,,,,
@@ -341,18 +341,18 @@
 339,Daikoku,931.0,"['Beasts Pirates', 'Orochi Oniwabanshu', 'Kurozumi Family']",Ninja,Alive,May 12,0,0,0,0,Grand Line,42.0,436.0,S,,
 340,Daikon,732.0,"['Tontatta Kingdom', 'Straw Hat Grand Fleet']",Scout ,Alive,,0,0,0,0,,,,,,
 341,Daisy,516.0,['Kuja Pirates'],Pirate,Alive,February 15,0,0,0,0,Calm Belt,,,,,
-342,DalmationDalmatian,553.0,['Marines'],Vice Admiral,Alive,November 1,0,0,0,0,,,,,,500000000.0
+342,Dalmatian,553.0,['Marines'],Vice Admiral,Alive,November 1,0,0,0,0,,,,,,500000000.0
 343,DaltonDolton,132.0,['Sakura Kingdom'],King of the Sakura Kingdom,Alive,June 10,1,0,0,0,Grand Line,33.0,218.0,X,Zoan,
 344,Damask,706.0,,Pyromaniac (Viz: Arsonist),Alive,,0,0,0,0,,,,,,
 345,Daruma,611.0,['New Fish-Man Pirates'],Pirate,Alive,July 8,0,0,0,0,Grand Line,30.0,122.0,F,,
 346,Dashiteyaro,951.0,['Kurozumi Family'],Retainer,Alive,,0,0,0,0,,,,,,
 347,Davy D. Jones,306.0,"['Clan of D.', 'Davy Family']",Pirate,Deceased,,0,0,0,0,,,,,,
 348,Daz Bonez,160.0,"['Cross Guild', 'Baroque Works']",Pirate,Alive,January 1,1,0,0,0,West Blue,29.0,212.0,F,Paramecia,75000000.0
-349,Decalvan BrothersDeCalvan Brothers,551.0,['Whitebeard Pirates'],Pirates,Alive,May 22,0,0,0,0,,,,,,
+349,DeCalvan Brothers,551.0,['Whitebeard Pirates'],Pirates,Alive,May 22,0,0,0,0,,,,,,
 350,Deigoro,958.0,,,Alive,,0,0,0,0,,,,,,
 351,Delacuaji,551.0,['Whitebeard Pirates'],Pirate,Alive,September 1,0,0,0,0,,,,,,
 352,Dellinger,702.0,['Donquixote Pirates'],Pirate Officer,Alive,August 11,0,0,0,0,North Blue,16.0,145.0,S (RH-),,15000000.0
-353,Demalo BlackDemaro Black,598.0,['Fake Straw Hat Crew'],Pirate Captain,Alive,May 5,0,0,0,0,East Blue,36.0,245.0,S,,26000000.0
+353,Demaro Black,598.0,['Fake Straw Hat Crew'],Pirate Captain,Alive,May 5,0,0,0,0,East Blue,36.0,245.0,S,,26000000.0
 354,Demoni Aiyo,966.0,,Hairstylist,Alive,,0,0,0,0,,,,,,
 355,Den,616.0,,Shipwright,Alive,October 10,0,0,0,0,Grand Line,62.0,435.0,X,,
 356,Denjiro,919.0,"['Kouzuki Family', 'Nine Red Scabbards', 'Kyoshiro Family', 'Kurozumi Family', 'Ninja-Pirate-Mink-Samurai Alliance']",Daimyo,Alive,October 26,0,1,1,0,Grand Line,47.0,306.0,XF,,
@@ -360,7 +360,7 @@
 358,Diamante,700.0,['Donquixote Pirates'],Pirate Executive Officer,Alive,May 29,1,1,1,0,North Blue,45.0,525.0,S,Paramecia,99000000.0
 359,Didit,585.0,['Goa Kingdom'],Noble,Alive,,0,0,0,0,,,,,,
 360,Diesel,827.0,['Big Mom Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
-361,Diez BarrelsX. Barrels,765.0,"['Barrels Pirates', 'Marines']",Pirate,Deceased,,0,0,0,0,,,,,,
+361,X. Barrels,765.0,"['Barrels Pirates', 'Marines']",Pirate,Deceased,,0,0,0,0,,,,,,
 362,Earth Boss,326.0,"['Ukkari Hot-Spring Island', 'Gedatsu']",Digger,Alive,August 4,0,0,0,0,,,,,,
 363,Disc J,1040.0,['Kid Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
 364,Disco,500.0,"['Donquixote Doflamingo', 'Human Auctioning House']",Owner of Human Auctioning House  (former),Alive,June 12,0,0,0,0,Grand Line,,,,,
@@ -375,13 +375,13 @@
 373,Doll,1061.0,"['Marines', 'G-14']",Vice Admiral,Alive,,0,0,1,0,,22.0,,,,500000000.0
 374,Doma,551.0,['Whitebeard Pirates'],Pirate,Alive,February 1,0,0,0,0,,,,,,
 375,Domino,526.0,['Impel Down'],Head Jailer,Alive,October 30,0,0,0,0,Grand Line,,,,,
-376,"Domo-kun, Nnke-kun",9.0,,,Alive,January 30,0,0,0,0,,,,,,
+376,Domo-kun,9.0,,,Alive,January 30,0,0,0,0,,,,,,
 377,Donannoyo,926.0,['Beasts Pirates'],Waiter,Alive,,0,0,0,0,,,,,,
 378,Donovan,318.0,['Foxy Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
 379,Donkino,966.0,['Roger Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
 380,Don Quixote Doflamingo,233.0,"['Donquixote Pirates', 'Impel Down', 'Underworld', 'World Government', 'Seven Warlords of the Sea', 'Dressrosa']",Pirate Captain,Alive,October 23,1,0,0,0,Red Line,39.0,305.0,X,Paramecia,340000000.0
 381,Don Quixote Homing,760.0,['World Government'],World Noble (Former),Deceased,,0,0,0,0,,,,,,
-382,"Don Quixote Myosgard, Funimation)Don Quixote MjosgardDonquixote Myosgard",625.0,"['World Government', 'Donquixote Family']",World Noble,Deceased,December 13,0,0,0,0,,25.0,211.0,X,,
+382,Don Quixote Mjosgard,625.0,"['World Government', 'Donquixote Family']",World Noble,Deceased,December 13,0,0,0,0,,25.0,211.0,X,,
 383,Don Quixote Rocinante,761.0,"['Marines', 'Donquixote Pirates', 'World Government']",Marine Commander,Deceased,July 15,1,0,0,0,Red Line,,293.0,S,Paramecia,
 384,Saint Donquixote Shivercalero,625.0,"['World Government', 'Donquixote Family']",World Noble,Alive,,0,0,0,0,,,,,,
 385,Dolan,658.0,,,Alive,,0,0,0,0,,,,,,
@@ -390,7 +390,7 @@
 388,Dosun,611.0,['New Fish-Man Pirates'],Pirate,Alive,October 9,0,0,0,0,Grand Line,30.0,418.0,S,,
 389,Dotaku,926.0,['Kouzuki Family'],Samurai,Alive,,0,0,0,0,,,,,,
 390,Doubt Brothers,980.0,['Beasts Pirates'],Shinuchi,Alive,,1,0,0,0,,,,,Artificial Zoan,
-391,Dracule MihawkDiego Mihawk,49.0,"['Cross Guild', 'Seven Warlords of the Sea']",Pirate,Alive,March 9,0,0,0,0,,41.0,198.0,S,,3590000000.0
+391,Dracule Mihawk,49.0,"['Cross Guild', 'Seven Warlords of the Sea']",Pirate,Alive,March 9,0,0,0,0,,41.0,198.0,S,,3590000000.0
 392,Dragon Number Thirteen,655.0,,Guard,Deceased,June 3,0,0,0,0,,,,,,
 393,Dragon Number Twenty-One,675.0,"['Caesar Clown', 'Vegapunk']",,Unknown,,0,0,0,0,,,,,,
 394,Dorrow,,['Marines'],Vice Admiral,Alive,,0,0,0,0,,,,,,500000000.0
@@ -466,7 +466,7 @@
 464,Gal,680.0,"['Marines', 'G-5']",Marine Officer,Alive,,0,0,0,0,,,,,,
 465,Galaxy,437.0,['Automata'],General,Alive,,0,0,0,0,,,,,,
 466,Galdino,117.0,"['Cross Guild', ""Buggy's Delivery"", 'Buggy Pirates', 'Buggy and Alvida Alliance', 'Baroque Works']",Pirate,Alive,March 3,1,0,0,0,South Blue,35.0,179.0,F,Paramecia,24000000.0
-467,"Jolly, Gary",902.0,['Gally Pirates'],Pirate Captain,Alive,,0,0,0,0,,,,,,3450000.0
+467,Gary,902.0,['Gally Pirates'],Pirate Captain,Alive,,0,0,0,0,,,,,,3450000.0
 468,Toad Boingnosuke,909.0,,,Alive,,0,0,0,0,,,,,,
 469,Gambia,705.0,"['Barto Club', 'Straw Hat Grand Fleet']",Staff Officer,Unknown,February 18,0,0,0,0,,,,,,67000000.0
 470,Gambo,905.0,['Revolutionary Army'],South Army Deputy Commander,Alive,,0,0,0,0,,,,,,
@@ -480,11 +480,11 @@
 478,Gatherine,379.0,['World Government'],Waitress,Unknown,,0,0,0,0,,,,,,
 479,Gattenshochi-no Sukeo,954.0,,Shipwright,Alive,,0,0,0,0,,,,,,
 480,Gyats,702.0,['Corrida Colosseum'],Announcer,Alive,August 26,0,0,0,0,,,,,,
-481,Gazelle-ManGazelleman,914.0,"['Beasts Pirates', 'Tama', 'Ninja-Pirate-Mink-Samurai Alliance']",Gifter,Alive,,1,0,0,0,,,,,Artificial Zoan,
+481,Gazelle-Man,914.0,"['Beasts Pirates', 'Tama', 'Ninja-Pirate-Mink-Samurai Alliance']",Gifter,Alive,,1,0,0,0,,,,,Artificial Zoan,
 482,Gecko Moria,449.0,"['Thriller Bark Pirates', 'Thriller Bark Pirates', 'Seven Warlords of the Sea', 'Gecko Pirates']",Pirate Captain,Alive,September 6,1,0,0,0,West Blue,48.0,692.0,X,Paramecia,320000000.0
 483,Gedatsu,241.0,"['Ukkari Hot-Spring Island', ""God's Army""]","Priest of Enel  (former), Head Clerk of Hot Springs Resort",Alive,August 10,0,0,0,0,Sky Islands,29.0,220.0,S,,
 484,Gem,110.0,"['Spiders Cafe', 'Baroque Works']",Cafe Employee,Alive,July 26,1,0,0,0,South Blue,24.0,197.0,X,Paramecia,10000000.0
-485,GenbouGenbo,249.0,"['Shandia', ""God's Guards""]",Shandia Warrior,Alive,February 9,0,0,0,0,Sky Islands,23.0,193.0,S,,
+485,Genbou,249.0,"['Shandia', ""God's Guards""]",Shandia Warrior,Alive,February 9,0,0,0,0,Sky Islands,23.0,193.0,S,,
 486,Genrin,940.0,,,Alive,,0,0,0,0,,,,,,
 487,Genzo,71.0,['Cocoyasi Village'],Sheriff of Cocoyasi Village,Alive,June 17,0,0,0,0,East Blue,46.0,173.0,F,,
 488,,,,,,,0,0,0,0,,,,,,
@@ -511,19 +511,19 @@
 509,,427.0,['Marines'],Marine,Alive,,0,0,0,0,,,,,,
 510,Glutbunny,1129.0,,,Deceased,,0,0,0,0,,,,,,
 511,Gode,254.0,"[""God's Army""]",Clergyman,Unknown,,0,0,0,0,,,,,,
-512,Going MerryMerry GoSS Merry Go,41.0,,,Destroyed,,0,0,0,0,,,1100.0,,,
+512,Going Merry,41.0,,,Destroyed,,0,0,0,0,,,1100.0,,,
 513,Goki,954.0,"['Beasts Pirates', 'Numbers']",,Alive,,0,0,0,0,,,,,,
 514,Gol D. Roger,1.0,"['Roger Pirates', 'Will of D.']",Pirate Captain,Deceased,December 31,0,1,1,1,East Blue,,274.0,S,,5564800000.0
 515,Goldberg,899.0,"['New Giant Warrior Pirates', ""Buggy's Delivery"", 'Straw Hat Grand Fleet']",Cook,Alive,May 11,0,0,0,0,Grand Line,63.0,2100.0,,,
 516,Goldfish Princess,189.0,['Goldfish Empire'],Princess of Goldfish Empire,Alive,,0,0,0,0,,,,,,
-517,"Gomora,Gomorrah",366.0,['Franky Family'],Transportation,Alive,August 6,0,0,0,0,,,,,,
+517,Gomorrah,366.0,['Franky Family'],Transportation,Alive,August 6,0,0,0,0,,,,,,
 518,Gonbe,322.0,['Chimney'],Pet,Alive,February 8,0,0,0,0,,,,,,
 519,Goo,483.0,[],"Pirate, Captain",Alive,,0,0,0,0,,,,,,
 520,Googly,101.0,['Poseidon'],,Alive,,0,0,0,0,,,,,,
 521,Gorilla,596.0,['Marines'],Marine Captain,Alive,May 18,0,0,0,0,,,,,,100000000.0
 522,Gorishiro,978.0,['Beasts Pirates'],,Alive,,0,0,0,0,,,,,,
 523,Goro,316.0,['Ukkari Hot-Spring Island'],Onsen manager,Alive,November 26,0,0,0,0,,,,,,
-524,GorobeiGorobe,924.0,,,Unknown,,0,0,0,0,,,,,,
+524,Gorobe,924.0,,,Unknown,,0,0,0,0,,,,,,
 525,Gotti,825.0,['Fire Tank Pirates'],"Pirate, Assassin,  Combatant",Alive,May 21,0,0,0,0,West Blue,33.0,375.0,S,,90000000.0
 526,Grabba,717.0,['Tontatta Kingdom'],,Alive,,0,0,0,0,,,,,,
 527,Gram,391.0,['Archaeologist'],Archaeologist,Deceased,,0,0,0,0,,,,,,
@@ -533,7 +533,7 @@
 531,Gurutaro,960.0,"['Mimawarigumi', 'Kouzuki Family']",Samurai,Unknown,,0,0,0,0,,,,,,
 532,Gyaro,197.0,"['Macro Pirates', 'Sun Pirates']",Pirate,Alive,,0,0,0,0,Grand Line,,,,,
 533,Gyogyo,498.0,['Bonney Pirates'],Fishmonger (former),Alive,,0,0,0,0,South Blue,,,,,
-534,"Gyoro, Nin, Bao",449.0,['Thriller Bark Pirates'],Soldier Zombies[citation needed],Deceased,,0,0,0,0,,,,,,
+534,Gyoro,449.0,['Thriller Bark Pirates'],Soldier Zombies[citation needed],Deceased,,0,0,0,0,,,,,,
 535,Gyoll,1.0,,Fishmonger,Alive,March 7,0,0,0,0,East Blue,,,,,
 536,Gyro,611.0,"['Gyro Pirates', 'New Fish-Man Pirates']",Pirate,Alive,June 22,0,0,0,0,,,,,,73000000.0
 537,Hack,706.0,['Revolutionary Army'],Revolutionary Army memberFish-Man Karate InstructorFish-Man Jujutsu Martial Artist,Alive,August 9,0,0,0,0,Grand Line,38.0,280.0,F,,
@@ -562,7 +562,7 @@
 560,Hareji,948.0,['Ninja-Pirate-Mink-Samurai Alliance'],Prisoner (former),Alive,,0,0,0,0,,41.0,,,,
 561,Victimothy Crucifixio,594.0,,Pirate,Unknown,,0,0,0,0,,,,,,
 562,Haruta,553.0,['Whitebeard Pirates'],12th Division Commander,Alive,February 4,0,0,0,0,South Blue,,,,,
-563,PincersScissors,176.0,"['Ukkari Hot-Spring Island', 'Matsuge']",Ukkari Hot-Springs Resort Transportation,Alive,,0,0,0,0,,,,,,
+563,Pincers,176.0,"['Ukkari Hot-Spring Island', 'Matsuge']",Ukkari Hot-Springs Resort Transportation,Alive,,0,0,0,0,,,,,,
 564,Haccha,981.0,"['Beasts Pirates', 'Numbers']",,Alive,October 8,0,0,0,0,Grand Line,188.0,3675.0,XF,,
 565,Hatchan,69.0,"['Takoyaki 8', 'Arlong Pirates', 'Sun Pirates']",Takoyaki seller,Alive,August 8,0,0,0,0,,36.0,220.0,S,,8000000.0
 566,Hatsume,951.0,"['Beasts Pirates', 'Mimawarigumi']",Samurai,Alive,,0,0,0,0,,,,,,
@@ -581,7 +581,7 @@
 579,Higuma,1.0,[],Bandit Leader,Deceased,November 18,0,0,0,0,East Blue,,190.0,X,,8000000.0
 580,Hihimaru,910.0,"['Beasts Pirates', 'Ninja-Pirate-Mink-Samurai Alliance']",,Alive,,0,0,0,0,,,,,,
 581,Hikkomitsukumai,951.0,['Kurozumi Family'],Retainer,Alive,,0,0,0,0,,,,,,
-582,Supersonic Duck SquadronSuper Spot-Billed Duck Troops,,,,,,0,0,0,0,,,,,,
+582,Supersonic Duck Squadron,,,,,,0,0,0,0,,,,,,
 583,Hildon,444.0,['Thriller Bark Pirates'],Wild Zombie,Deceased,,0,0,0,0,,,,,,
 584,Hilmungardr,1128.0,,,Alive,,0,0,0,0,,,,,,
 585,Himuro,951.0,"['Beasts Pirates', 'Kurozumi Family', 'Mimawarigumi']",Samurai,Alive,,0,0,0,0,,,,,,
@@ -592,17 +592,17 @@
 590,Hippie,1122.0,['Endurance Curry Pirates'],Pirate Captain,Alive,,0,0,0,0,,,,,,
 591,Hippo Gallant,451.0,['Thriller Bark Pirates'],Wild Zombie Vice Commander,Deceased,,0,0,0,0,,,,,,
 592,Hiramela,608.0,['Coral Hill'],Dancer,Alive,,0,0,0,0,Grand Line,,,,,
-593,Dr. HirilukDr. Hiruruku,141.0,,Doctor,Deceased,January 12,0,0,0,0,Grand Line,,213.0,F,,
+593,Dr. Hiriluk,141.0,,Doctor,Deceased,January 12,0,0,0,0,Grand Line,,213.0,F,,
 594,Hiro Gomon,1122.0,['Endurance Curry Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
 595,Hiroshi,915.0,,Restaurant Owner,Alive,,0,0,0,0,,,,,,
 596,Duke Genghis Baan,963.0,['Mokomo Dukedom'],Ruler of Mokomo Dukedom (Former),Unknown,,0,0,0,0,,,,,,
-597,Dr. HouDr. Ooh,213.0,['Nefertari Family'],Doctor,Alive,,0,0,0,0,,,,,,
+597,Dr. Hou,213.0,['Nefertari Family'],Doctor,Alive,,0,0,0,0,,,,,,
 598,Hocha,391.0,['Archaeologist'],Archaeologist,Deceased,,0,0,0,0,,,,,,
 599,Hocker,12.0,['Chouchou'],Pet Shop Owner,Deceased,May 17,0,0,0,0,East Blue,,,,,
 600,Hordy JonesHody Jones,608.0,"['New Fish-Man Pirates', 'Flying Pirates', 'Ryugu Kingdom']",Pirate,Alive,April 14,0,0,0,0,Grand Line,30.0,331.0,F,,
 601,Hoe,611.0,"['King (Title)', 'Neptune', 'Fish-Man Island', 'Ryugu Kingdom']",Neptune's transportation and pet,Alive,September 13,0,0,0,0,,,,,,
 602,Hogback,446.0,"['Thriller Bark Pirates', 'Thriller Bark Pirates']",Doctor,Alive,December 19,0,0,0,0,West Blue,45.0,223.0,XF,,
-603,MichaelHoichael,432.0,['Aunt'],Elementary school students (pre-timeskip),Alive,July 18,0,0,0,0,,12.0,,,,
+603,Michael,432.0,['Aunt'],Elementary school students (pre-timeskip),Alive,July 18,0,0,0,0,,12.0,,,,
 604,Hoisassa,942.0,['Kurozumi Family'],Retainer (former),Alive,,1,0,0,0,,,,,Artificial Zoan,
 605,Holdem,915.0,['Beasts Pirates'],Shinuchi,Alive,August 21,1,0,0,0,Grand Line,30.0,312.0,F,Artificial Zoan,
 606,Holly,241.0,"[""God's Army""]",Pet,Alive,November 7,0,0,0,0,,,,,,
@@ -640,10 +640,10 @@
 638,Indigo,0.0,['Golden Lion Pirates'],Pirate,Alive,December 5,0,0,0,0,,,,,,
 639,Inhel,718.0,"['Tontatta Kingdom', 'Tontatta Pirates', 'Straw Hat Grand Fleet']",Scout ,Alive,,0,0,0,0,,,,,,
 640,Ino Ichiban-no-Suke,917.0,,Firefighter,Alive,,0,0,0,0,,,,,,
-641,DogstormDogupineInuarashi,808.0,"['Mokomo Dukedom', 'Musketeers', 'Kouzuki Family', 'Inuarashi Musketeer Squad', 'Ninja-Pirate-Mink-Samurai Alliance', 'Nine Red Scabbards', 'Roger Pirates', 'Whitebeard Pirates']",Daimyo,Alive,October 11,0,0,0,0,Grand Line,40.0,511.0,X,,
+641,Inuarashi,808.0,"['Mokomo Dukedom', 'Musketeers', 'Kouzuki Family', 'Inuarashi Musketeer Squad', 'Ninja-Pirate-Mink-Samurai Alliance', 'Nine Red Scabbards', 'Roger Pirates', 'Whitebeard Pirates']",Daimyo,Alive,October 11,0,0,0,0,Grand Line,40.0,511.0,X,,
 642,Inukai,932.0,,Official,Alive,,0,0,0,0,,,,,,
-643,Dog PenguinInuppe,451.0,['Thriller Bark'],Wild Zombie,Deceased,December 16,0,0,0,0,,,,,,
-644,MatsuIpponmatsu,97.0,['Loguetown'],Arms Shop Proprietor,Alive,January 31,0,0,0,0,East Blue,38.0,157.0,X,,
+643,Inuppe,451.0,['Thriller Bark'],Wild Zombie,Deceased,December 16,0,0,0,0,,,,,,
+644,Ipponmatsu,97.0,['Loguetown'],Arms Shop Proprietor,Alive,January 31,0,0,0,0,East Blue,38.0,157.0,X,,
 645,Ippon Ume,97.0,['Loguetown'],Arms Shop Proprietress,Alive,December 1,0,0,0,0,East Blue,,,,,
 646,Isa,256.0,['Shandia'],,Alive,,0,0,0,0,,,,,,
 647,Iscat,1127.0,,,Alive,,0,0,0,0,,,,,,
@@ -654,7 +654,7 @@
 652,Issho,701.0,['Marines'],Admiral ,Alive,August 10,1,1,1,0,Grand Line,54.0,270.0,S,Paramecia,3000000000.0
 653,Isuka,,,Marine Ensign,Alive,,0,0,0,0,,,,,,1000000.0
 654,Itomimizu,306.0,['Foxy Pirates'],Pirate,Alive,January 11,0,0,0,0,,,,,,
-655,Supersonic Duck SquadronSuper Spot-Billed Duck Troops,,,,,,0,0,0,0,,,,,,
+655,Super Spot-Billed Duck Troops,,,,,,0,0,0,0,,,,,,
 656,Iwatobi,823.0,['Levely'],King,Alive,,0,0,0,0,,,,,,
 657,Yuwana Myclose,1074.0,['World Economy News Paper'],Newspaper Columnist,Alive,,0,0,0,0,,24.0,,,,
 658,Izo,553.0,"['Whitebeard Pirates', 'Kouzuki Family', 'Ninja-Pirate-Mink-Samurai Alliance']",16th Division Commander (former),Deceased,October 13,0,0,0,0,Grand Line,43.0,192.0,X,,510000000.0
@@ -697,7 +697,7 @@
 695,Jormungandr,1142.0,,,Unknown,,0,0,0,0,,,,,,
 696,Jorul,866.0,"['Giant Warrior Pirates', 'Elbaph']",Pirate Captain (former),Deceased,December 4,0,0,0,0,Grand Line,,2150.0,F,,
 697,Joseph,705.0,['CP0'],Cipher Pol Agent,Alive,,0,0,0,0,,,,,,
-698,JoshuJosh,1065.0,['Vegapunk/Edison'],Assistant,Alive,,0,0,0,0,,,,,,
+698,Josh,1065.0,['Vegapunk/Edison'],Assistant,Alive,,0,0,0,0,,,,,,
 699,Joyboy,628.0,,Pirate,Deceased,,1,0,0,0,Great Kingdom,,,,Mythical Zoan,
 700,Jozu,234.0,['Whitebeard Pirates'],Pirate,Alive,November 11,1,1,1,0,West Blue,40.0,503.0,X,Paramecia,0.0
 701,Judi,499.0,,,Alive,November 2,0,0,0,0,Grand Line,,,,,
@@ -733,7 +733,7 @@
 731,Karma,553.0,"['Takotopus Pirates', 'Whitebeard Pirates']",Pirate Captain,Alive,June 6,0,0,0,0,,,,,,
 732,Karoo,109.0,"['Super Spot-Billed Duck Troops', 'Nefertari Vivi', 'Straw Hat Pirates', 'Baroque Works']",Pet,Alive,November 8,0,0,0,0,Grand Line,14.0,150.0,F,,
 733,Kasa,594.0,['Raijin Island'],,Alive,,0,0,0,0,,,,,,
-734,KasagonKasagoba,607.0,['New Fish-Man Pirates'],Pirate,Alive,,0,0,0,0,Grand Line,,,,,
+734,Kasagoba,607.0,['New Fish-Man Pirates'],Pirate,Alive,,0,0,0,0,Grand Line,,,,,
 735,Kashii,377.0,"['World Government', 'Giant Warrior Pirates']","Pirate,  Gate Guardian  (former )",Alive,April 1,0,0,0,0,Grand Line,154.0,1700.0,X,,
 736,Kashigami,287.0,['Shandia'],,Deceased,November 4,0,0,0,0,,,,,,
 737,Kashigami's Offspring,289.0,,,Deceased,,0,0,0,0,,,,,,
@@ -773,7 +773,7 @@
 771,Mozu and Kiwi,329.0,['Franky Family'],Bartenders,Alive,January 7,0,0,0,0,Grand Line,22.0,187.0,F,,
 772,Koala,622.0,"['Revolutionary Army', 'Sun Pirates', 'Slavery']",Revolutionary Army Officer,Alive,October 25,0,0,0,0,,11.0,160.0,F,,0.0
 773,Kobei,929.0,,Landlord,Alive,,0,0,0,0,,,,,,
-774,"Koby,Coby",2.0,"['Marines', 'SWORD', '153rd Branch', 'Alvida Pirates']",Marine Captain,Alive,May 13,0,0,0,0,East Blue,16.0,167.0,F,,500000000.0
+774,Coby,2.0,"['Marines', 'SWORD', '153rd Branch', 'Alvida Pirates']",Marine Captain,Alive,May 13,0,0,0,0,East Blue,16.0,167.0,F,,500000000.0
 775,Koda,285.0,"['Marines', 'G-2']",Chef,Alive,,0,0,0,0,,,,,,
 776,Koito,930.0,,,Alive,,0,0,0,0,,,,,,
 777,Koiwa,960.0,,,Unknown,,0,0,0,0,,,,,,
@@ -797,7 +797,7 @@
 795,Kozuki Toki,919.0,"['Kouzuki Family', 'Amatsuki Family', 'Whitebeard Pirates', 'Roger Pirates']",,Deceased,January 19,1,0,0,0,,,190.0,X,Paramecia,
 796,Koyama,960.0,['Kouzuki Family'],Retainer,Unknown,,0,0,0,0,,,,,,
 797,Koza,163.0,"['Arabasta Kingdom', 'Sand-Sand Clan', 'Operation Utopia']",Environmental Minister,Alive,May 26,0,0,0,0,Grand Line,20.0,177.0,X,,
-798,KozePacky,96.0,['Yes Pirates'],Pirates,Alive,May 27,0,0,0,0,East Blue,,,,,
+798,Koze,96.0,['Yes Pirates'],Pirates,Alive,May 27,0,0,0,0,East Blue,,,,,
 799,Krieg,45.0,['Krieg Pirates'],Pirate Captain/Admiral,Alive,September 19,0,0,0,0,East Blue,42.0,243.0,XF,,17000000.0
 800,Kujaku,966.0,"['Marines', 'G-14', 'SWORD']",Rear Admiral,Alive,September 18,1,0,0,0,North Blue,26.0,180.0,X,Paramecia,500000000.0
 801,Kukai,552.0,"['Spade Pirates', 'Whitebeard Pirates']",Samurai,Alive,,0,0,0,0,Wano Country,,,,,
@@ -850,7 +850,7 @@
 848,Loki,1130.0,['Elbaph'],Prince,Alive,,1,0,0,1,Grand Line,63.0,,,Mythical Zoan,2600000000.0
 849,Lola,451.0,['Thriller Bark Pirates'],Wild Zombie,Deceased,,0,0,0,0,,,,,,
 850,Lonz,550.0,"['Marines', 'Giant Squad']",Vice Admiral,Alive,June 2,0,0,0,0,,,,,,500000000.0
-851,"""Local Sea Monster""",1.0,,Foosha Village's local Sea King,Alive,September 14,0,0,0,0,East Blue,,,,,
+851,Local Sea Monster,1.0,,Foosha Village's local Sea King,Alive,September 14,0,0,0,0,East Blue,,,,,
 852,Louis Arnote,115.0,,Explorer,Unknown,December 20,0,0,0,0,Grand Line,,,,,
 853,Lucky Roux,1.0,['Red Hair Pirates'],Pirate,Alive,July 6,0,0,0,0,South Blue,35.0,241.0,F,,0.0
 854,Du Feld,860.0,"['Underworld', 'MADS']",Emperor of the Underworld,Unknown,December 29,0,0,0,0,,,,,,
@@ -877,7 +877,7 @@
 875,Marco,234.0,"['Whitebeard Pirates', 'Ninja-Pirate-Mink-Samurai Alliance']",1st Division Commander (former),Alive,October 5,1,1,1,0,Grand Line,43.0,203.0,X,Mythical Zoan,1374000000.0
 876,St. Marcus Mars,233.0,"['Five Elders', 'World Noble']",Co-Head of the World Government (Public),Alive,,0,0,0,0,,,,,,
 877,Margarita,483.0,['Egana'],Maid,Alive,,0,0,0,0,,,,,,
-878,"Marguerite,Margaret",514.0,['Kuja Pirates'],Pirate,Alive,April 9,0,0,0,0,Calm Belt,16.0,178.0,F,,
+878,Margaret,514.0,['Kuja Pirates'],Pirate,Alive,April 9,0,0,0,0,Calm Belt,16.0,178.0,F,,
 879,Mari,906.0,['Levely'],King,Alive,,0,0,0,0,,,,,,
 880,Maria Napole,649.0,['Fish-Man Island'],Singer,Alive,,0,0,0,0,Grand Line,,,,,
 881,Marianne,117.0,"['Spiders Cafe', 'Baroque Works']",Cafe Employee,Alive,April 29,0,0,0,0,North Blue,16.0,145.0,XF,,29000000.0
@@ -900,7 +900,7 @@
 898,Mattryoshesses,905.0,,Princesses of the Roshwan Kingdom,Alive,,0,0,0,0,,,,,,
 899,Mattryoshesses,905.0,,Princesses of the Roshwan Kingdom,Alive,,0,0,0,0,,,,,,
 900,Mattryoshesses,905.0,,Princesses of the Roshwan Kingdom,Alive,,0,0,0,0,,,,,,
-901,"Eyelashes,Eyelash,Lashes,Matsuge",162.0,['Super Spot-Billed Duck Troops'],Royal Transport,Alive,August 17,0,0,0,0,Grand Line,15.0,190.0,F,,
+901,Matsuge,162.0,['Super Spot-Billed Duck Troops'],Royal Transport,Alive,August 17,0,0,0,0,Grand Line,15.0,190.0,F,,
 902,Mouji,755.0,"['Tontatta Kingdom', 'Tontatta Pirates', 'Straw Hat Grand Fleet']",Aide to Princess Mansherry,Alive,,0,0,0,0,,,,,,
 903,Maynard,705.0,['Marines'],Vice Admiral,Alive,May 7,0,0,0,0,,,,,,500000000.0
 904,Max Marx,966.0,['Roger Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
@@ -913,7 +913,7 @@
 911,Mello,608.0,['Mermaid Cafe'],Dancer,Alive,,0,0,0,0,Grand Line,,,,,
 912,Merry,24.0,['Kaya'],Butler,Alive,January 22,0,0,0,0,East Blue,,,,,
 913,Gohngeddit Juanpeace,963.0,['Germ Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
-914,MichaelHoichael,432.0,['Aunt'],Elementary school students (pre-timeskip),Alive,July 18,0,0,0,0,,12.0,,,,
+914,Michael,432.0,['Aunt'],Elementary school students (pre-timeskip),Alive,July 18,0,0,0,0,,12.0,,,,
 915,Mihal,552.0,"['Spade Pirates', 'Whitebeard Pirates']",Teacher (former),Alive,,0,0,0,0,,,,,,
 916,Mikazuki,323.0,['Big Helmet Pirates'],Pirate Captain,Alive,February 10,0,0,0,0,,,,,,36000000.0
 917,Mikio Itoo,1.0,,,Alive,March 26,0,0,0,0,East Blue,,,,,1000000.0
@@ -935,9 +935,9 @@
 933,Misery,1039.0,['Big Mom Pirates'],Living Weapon,Unknown,,0,0,0,0,Grand Line,,,,,
 934,Mishinin Cashable,324.0,,Bull Rental Salesman,Alive,,0,0,0,0,,,,,,
 935,Miss Katherina,106.0,"['Baroque Works', 'Baroque Works']",Bounty Hunter,Alive,March 23,0,0,0,0,East Blue,,,,,
-936,Ms. Father's DayMiss Father's Day,205.0,['Baroque Works'],Frontier Agent,Alive,June 21,0,0,0,0,,,,,,
-937,Ms. FridayMiss Friday,105.0,['Baroque Works'],Assassin (former),Alive,January 21,0,0,0,0,Grand Line,,,,,
-938,Ms. MondayMiss Monday,107.0,['Baroque Works'],Frontier Agent (former),Alive,January 24,0,0,0,0,Grand Line,,,,,
+936,Miss Father's Day,205.0,['Baroque Works'],Frontier Agent,Alive,June 21,0,0,0,0,,,,,,
+937,Miss Friday,105.0,['Baroque Works'],Assassin (former),Alive,January 21,0,0,0,0,Grand Line,,,,,
+938,Miss Monday,107.0,['Baroque Works'],Frontier Agent (former),Alive,January 24,0,0,0,0,Grand Line,,,,,
 939,Ms. Mother's Day,155.0,['Baroque Works'],Frontier Agent,Alive,,0,0,0,0,,,,,,
 940,Ms. Saturday,155.0,['Baroque Works'],Frontier Agent,Alive,,0,0,0,0,,,,,,
 941,Ms. Thursday,155.0,['Baroque Works'],Frontier Agent,Alive,,0,0,0,0,,,,,,
@@ -963,7 +963,7 @@
 961,Monkey D. Garp,92.0,"['Marines', 'Will of D.']",Vice Admiral,Alive,May 2,0,1,1,1,East Blue,76.0,287.0,F,,3000000000.0
 962,Monkey D. Luffy,1.0,"['Straw Hat Pirates', 'Straw Hat Grand Fleet', 'Four Emperors', 'Will of D.', 'Dadan Family', 'Baratie', 'Impel Down', 'Ninja-Pirate-Mink-Samurai Alliance']",Pirate Captain,Alive,May 5,1,1,1,1,East Blue,19.0,174.0,F,Paramecia (Mythical Zoan),3000000000.0
 963,Monster,1.0,['Red Hair Pirates'],Pirate,Alive,October 31,0,0,0,0,East Blue,,,,,
-964,"Mont Blanc Cricket,Montblanc Cricket,Monbran Cricket,Mombran Cricket",227.0,"['Saruyama Alliance', 'Mont Blanc Family']",Pirate,Alive,September 11,0,0,0,0,North Blue,41.0,242.0,S,,25000000.0
+964,Mont Blanc Cricket,227.0,"['Saruyama Alliance', 'Mont Blanc Family']",Pirate,Alive,September 11,0,0,0,0,North Blue,41.0,242.0,S,,25000000.0
 965,Mont Blanc Noland,286.0,"['Lvneel Kingdom', 'Mont Blanc Family']",Explorer,Deceased,October 9,0,0,0,0,North Blue,,220.0,S,,
 966,Moody,43.0,,,Alive,November 17,0,0,0,0,East Blue,,,,,
 967,Moon Isaac Jr.,966.0,['Roger Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
@@ -1022,12 +1022,12 @@
 1020,Nay Mingheim,,['Marines'],Vice Admiral,Alive,,0,0,0,0,,,,,,500000000.0
 1021,Needle God,1127.0,,,Alive,,0,0,0,0,,,,,,
 1022,Nefeltari Cobra,142.0,"['Arabasta Kingdom', 'Will of D.']",King of Arabasta,Deceased,February 13,0,0,0,0,Grand Line,48.0,182.0,F,,
-1023,Nefeltari D. Lily  Nefertari D. Lily,1084.0,"['Arabasta Kingdom', 'Nefertari Family', 'World Government', 'Will of D.']",Queen of the Arabasta Kingdom,Deceased,,0,0,0,0,Grand Line,,,,,
+1023,Nefeltari D. Lily,1084.0,"['Arabasta Kingdom', 'Nefertari Family', 'World Government', 'Will of D.']",Queen of the Arabasta Kingdom,Deceased,,0,0,0,0,Grand Line,,,,,
 1024,Nefeltari Titi,215.0,['Arabasta Kingdom'],Queen of the Arabasta Kingdom,Deceased,,0,0,0,0,,,,,,
 1025,Nefeltari Vivi,103.0,"['Arabasta Kingdom', 'Nefertari Family', 'Straw Hat Pirates', 'Baroque Works', 'Will of D.', 'Sand-Sand Clan']",Princess of Arabasta,Alive,February 2,0,0,0,0,Grand Line,16.0,169.0,F,,
 1026,Neggy,906.0,['Levely'],Queen of the Gingapore Kingdom,Alive,,0,0,0,0,,,,,,
 1027,Maria Onion Bear,133.0,,Housewife,Alive,November 14,0,0,0,0,Grand Line,43.0,,,,
-1028,Cat ViperNekomamushi,809.0,"['Mokomo Dukedom', 'Guardians', 'Kouzuki Family', 'Ninja-Pirate-Mink-Samurai Alliance', 'Nine Red Scabbards', 'Roger Pirates', 'Whitebeard Pirates']",Yakuza Boss,Alive,November 22,0,0,0,0,Grand Line,40.0,522.0,S,,
+1028,Nekomamushi,809.0,"['Mokomo Dukedom', 'Guardians', 'Kouzuki Family', 'Ninja-Pirate-Mink-Samurai Alliance', 'Nine Red Scabbards', 'Roger Pirates', 'Whitebeard Pirates']",Yakuza Boss,Alive,November 22,0,0,0,0,Grand Line,40.0,522.0,S,,
 1029,Nekozaemon,806.0,,,Deceased,,0,0,0,0,,,,,,
 1030,Neoki,948.0,['Beasts Pirates'],Waiter,Alive,,0,0,0,0,,,,,,
 1031,Neptune,611.0,"['Neptune Family', 'Ryugu Kingdom']",King of the Ryugu Kingdom,Alive,July 3,0,0,0,0,Grand Line,70.0,1220.0,X,,
@@ -1042,10 +1042,10 @@
 1040,Guppy Mermaid Quintuplets,608.0,,,Alive,,0,0,0,0,Grand Line,,,,,
 1041,Nika,1018.0,,,Unknown,,0,0,0,0,,,,,,
 1042,"Gyoro, Nin, Bao",449.0,['Thriller Bark Pirates'],Soldier Zombies[citation needed],Deceased,,0,0,0,0,,,,,,
-1043,CarrotNinjin,23.0,['Usopp Pirates'],Pretend Pirate (formerly),Alive,February 2,0,0,0,0,East Blue,9.0,127.0,X,,
+1043,Ninjin,23.0,['Usopp Pirates'],Pretend Pirate (formerly),Alive,February 2,0,0,0,0,East Blue,9.0,127.0,X,,
 1044,Ninth,558.0,['Whitebeard Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
 1045,Nitro,651.0,"['Big Mom Pirates', 'Cacao Island']",,Alive,,0,0,0,0,,,,,,
-1046,"Domo-kun, Nnke-kun",9.0,,,Alive,January 30,0,0,0,0,,,,,,
+1046,Domo-kun,9.0,,,Alive,January 30,0,0,0,0,,,,,,
 1047,Aristocroc,831.0,['Big Mom Pirates'],,Alive,October 17,0,0,0,0,,,,,,
 1048,Nodoi Wakan,948.0,['Beasts Pirates'],Waiter,Alive,,0,0,0,0,,,,,,
 1049,Nokokuwa Police,978.0,"['Beasts Pirates', 'Kurozumi Tama']",Shinuchi,Alive,,1,0,0,0,,,,,Artificial Zoan,
@@ -1077,17 +1077,17 @@
 1075,Onigumo,420.0,['Marines'],Vice Admiral,Alive,February 8,0,0,0,0,,,,,,500000000.0
 1076,Onimaru,936.0,"['Shimotsuki Family', 'Shimotsuki Ushimaru', 'Kouzuki Family', 'Kawamatsu']",Warrior Monk,Alive,November 19,1,0,0,0,Grand Line,69.0,428.0,X,Mythical Zoan,
 1077,Oran,391.0,,,Deceased,,0,0,0,0,,,,,,
-1078,Olombus,704.0,"['Yonta Maria Grand Fleet', 'Straw Hat Grand Fleet', 'Standing Kingdom']",Captain of the Seventh Ship of the Straw Hat Grand Fleet,Alive,June 23,0,0,0,0,Grand Line,42.0,480.0,X,,1.4800000098e+16
+1078,Olombus,704.0,"['Yonta Maria Grand Fleet', 'Straw Hat Grand Fleet', 'Standing Kingdom']",Captain of the Seventh Ship of the Straw Hat Grand Fleet,Alive,June 23,0,0,0,0,Grand Line,42.0,480.0,X,,148000000
 1079,Ossamond,552.0,['Spade Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
 1080,Otohime,621.0,"['Neptune Family', 'Ryugu Kingdom']",Queen of the Ryugu Kingdom,Deceased,January 10,0,1,0,0,Grand Line,,224.0,S,,
 1081,Ottoland,329.0,['Franky Family'],Dismantler,Alive,,0,0,0,0,,,,,,
 1082,Outlook III,585.0,,Noble,Alive,,0,0,0,0,,,,,,
-1083,KozePacky,96.0,['Yes Pirates'],Pirates,Alive,May 27,0,0,0,0,East Blue,,,,,
+1083,Packy,96.0,['Yes Pirates'],Pirates,Alive,May 27,0,0,0,0,East Blue,,,,,
 1084,Pagaya,239.0,,Engineer,Alive,August 17,0,0,0,0,Grand Line,52.0,179.0,F,,
 1085,Page One,929.0,"['Yamato', 'Beasts Pirates', 'Beasts Pirates']",Shinuchi,Alive,February 10,1,1,1,0,Grand Line,20.0,171.0,X,Ancient Zoan,290000000.0
 1086,Palms,553.0,['Whitebeard Pirates'],Pirate,Alive,March 11,0,0,0,0,,,,,,
-1087,Panda ManPandaman,44.0,,Wrestler,Alive,February 29,0,0,0,0,Tibet,0.0,200.0,,,3333333.0
-1088,Panda WomanPandawomanmi,517.0,['Easter Egg'],,Alive,February 29,0,0,0,0,Calm Belt,,,,,
+1087,Panda Man,44.0,,Wrestler,Alive,February 29,0,0,0,0,Tibet,0.0,200.0,,,3333333.0
+1088,Panda Woman,517.0,['Easter Egg'],,Alive,February 29,0,0,0,0,Calm Belt,,,,,
 1089,Pandora,867.0,['Carmel'],,Unknown,,0,0,0,0,,,,,,
 1090,Justy Tinbread,525.0,,,Alive,June 29,0,0,0,0,Grand Line,,,,,
 1091,Pansy,515.0,['Kuja'],Warrior,Alive,July 20,0,0,0,0,Calm Belt,,,,,
@@ -1115,7 +1115,7 @@
 1113,Pica,700.0,['Donquixote Pirates'],Pirate Executive Officer,Alive,December 14,1,1,1,0,North Blue,40.0,470.0,X,Paramecia,99000000.0
 1114,Pickles,309.0,"['Foxy Pirates', 'Groggy Monsters']",Pirate,Alive,January 9,0,0,0,0,,,,,,
 1115,Pierre,237.0,['Gan Fall'],Gan Fall's Pet,Alive,October 8,1,0,0,0,,,,,Zoan,
-1116,PepperPieman,23.0,['Usopp Pirates'],Pretend Pirate (former),Alive,April 9,0,0,0,0,East Blue,9.0,120.0,XF,,
+1116,Pieman,23.0,['Usopp Pirates'],Pretend Pirate (former),Alive,April 9,0,0,0,0,East Blue,9.0,120.0,XF,,
 1117,Pike,652.0,"['Marines', 'G-5']",Marine Officer[citation needed],Alive,,0,0,0,0,,,,,,
 1118,Pinky,8.0,,,Alive,September 29,0,0,0,0,East Blue,,,,,
 1119,Piper,1130.0,['New Giant Warrior Pirates'],,Alive,,0,0,0,0,,,,,,
@@ -1123,7 +1123,7 @@
 1121,Saint Pluming,1083.0,['World Government'],World Noble,Alive,,0,0,0,0,,,,,,
 1122,Poker,997.0,"['Beasts Pirates', 'Tama']",Shinuchi,Alive,,1,0,0,0,,,,,Artificial Zoan,
 1123,Polo Gram,1162.0,['Polo Pirates'],Pirate Captain,Unknown,,0,0,0,0,,,,,,
-1124,"Pump,Pomp",1029.0,['Kid Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
+1124,Pomp,1029.0,['Kid Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
 1125,Pomsky,1089.0,['Marines'],Vice Admiral,Alive,,1,0,0,0,,,,,Zoan,500000000.0
 1126,Poppoko,2.0,['Alvida Pirates'],Pirate,Alive,September 2,0,0,0,0,East Blue,,,,,
 1127,Poppy,515.0,['Kuja'],Warrior,Alive,May 17,0,0,0,0,Calm Belt,,,,,
@@ -1151,7 +1151,7 @@
 1149,Queen Mama Chanter,730.0,,,Active,,0,0,0,0,,,,,,
 1150,Quincy,1039.0,['Kid Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
 1151,Rabbit-Man,916.0,['Beasts Pirates'],Gifter,Alive,,1,0,0,0,,,,,Artificial Zoan,
-1152,RabianRabiyan,827.0,"['Big Mom Pirates', 'Cacao Island']",,Alive,,0,0,0,0,,,,,,
+1152,Rabiyan,827.0,"['Big Mom Pirates', 'Cacao Island']",,Alive,,0,0,0,0,,,,,,
 1153,Raccoon,,,Pirate Captain,Unknown,,0,0,0,0,,,,,,75000000.0
 1154,Ragnir,1130.0,"['Loki', 'Elbaph']",Loki's warhammer,Alive,,0,0,0,0,,0.0,,,,
 1155,Rydin,129.0,['Giant Warrior Pirates'],Pirate (former),Alive,November 14,0,0,0,0,,102.0,,,,
@@ -1170,13 +1170,13 @@
 1168,Ratatoskr,1175.0,['Warrior God'],,Unknown,,0,0,0,0,,,,,,
 1169,Ratel,1073.0,['Marines'],Marine Captain,Alive,,0,0,0,0,,,,,,100000000.0
 1170,Rebecca,704.0,"['Dressrosa', 'Corrida Colosseum']","Lady-in-waiting,  Gladiator (former), Princess Of Dressrosa (former)",Alive,August 4,0,1,0,0,Grand Line,16.0,171.0,S,,
-1171,"Wreck,Reck",1038.0,['Kid Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
+1171,Reck,1038.0,['Kid Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
 1172,Recycollie,1063.0,['Vegapunk'],,Alive,,0,0,0,0,,,,,,
 1173,Red King,1078.0,['Marines'],Vice Admiral,Alive,,0,0,0,0,,,,,,500000000.0
 1174,Redwolf,980.0,['Beasts Pirates'],Gifter,Alive,,1,0,0,0,,,,,Artificial Zoan,
 1175,Reforte,556.0,['Whitebeard Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
 1176,Renona Topakka,963.0,,,Deceased,,0,0,0,0,,,,,,
-1177,RichieRichy,9.0,"['Cross Guild', ""Buggy's Delivery"", 'Buggy and Alvida Alliance', 'Buggy Pirates']",Pet,Alive,July 23,0,0,0,0,,,,,,
+1177,Richy,9.0,"['Cross Guild', ""Buggy's Delivery"", 'Buggy and Alvida Alliance', 'Buggy Pirates']",Pet,Alive,July 23,0,0,0,0,,,,,,
 1178,Rika,3.0,"['Marines', '153rd Branch']",Waitress,Alive,June 18,0,0,0,0,East Blue,,,,,
 1179,Riku Doldo III,706.0,['Riku Family'],King,Alive,June 27,0,0,0,0,Grand Line,60.0,261.0,S,,
 1180,Saint Rimoshifu Killingham,1140.0,"['Knights of God', 'World Noble', 'Rimoshifu Family']",,Alive,,1,0,0,0,,,,,Mythical Zoan,
@@ -1277,7 +1277,7 @@
 1275,Shachi,498.0,"['Heart Pirates', 'Ninja-Pirate-Mink-Samurai Alliance']",Pirate,Unknown,April 7,0,0,0,0,North Blue,25.0,,X,,
 1276,,,,,,,0,0,0,0,,,,,,
 1277,Shakuyaku,498.0,"[""Shakky's Rip-off Bar"", 'Kuja', 'Kuja Pirates']",Bartender,Alive,May 8,0,0,0,0,,62.0,186.0,X,,
-1278,SiamSham,31.0,['Black Cat Pirates'],Pirate Officer,Alive,April 19,0,0,0,0,East Blue,21.0,201.0,X,,7000000.0
+1278,Sham,31.0,['Black Cat Pirates'],Pirate Officer,Alive,April 19,0,0,0,0,East Blue,21.0,201.0,X,,7000000.0
 1279,Shamba,524.0,['Torino Kingdom'],,Alive,November 8,0,0,0,0,,,,,,
 1280,Shandia Chief,275.0,['Shandia'],Chief of Shandia,Alive,October 4,0,0,0,0,Sky Islands,63.0,179.0,X,,
 1281,Shanks,1.0,"['Red Hair Pirates', 'Four Emperors', 'Roger Pirates', 'Knights of God', 'World Noble', 'Figarland Family']",Chief,Alive,March 9,0,1,1,1,West Blue,39.0,132.0,XF,,4048900000.0
@@ -1303,7 +1303,7 @@
 1301,Shion,515.0,['Kuja'],Warrior,Alive,,0,0,0,0,,,,,,
 1302,Saltgrill,75.0,['Arlong Pirates'],Pirate ,Alive,March 27,0,0,0,0,Grand Line,,,,,
 1303,Shirahoshi,612.0,"['Neptune Family', 'Ryugu Kingdom']",Princess of the Ryugu Kingdom,Alive,April 4,0,1,0,0,Grand Line,16.0,1187.0,X,,
-1304,Shiryu Shiliew,538.0,"['Blackbeard Pirates', 'Impel Down']",Titanic Captain (Captain of the Second Ship),Alive,June 11,1,0,0,0,Grand Line,42.0,340.0,X,Paramecia,0.0
+1304,Shiryu,538.0,"['Blackbeard Pirates', 'Impel Down']",Titanic Captain (Captain of the Second Ship),Alive,June 11,1,0,0,0,Grand Line,42.0,340.0,X,Paramecia,0.0
 1305,Shishilian,808.0,"['Mokomo Dukedom', 'Inuarashi Musketeer Squad', 'Ninja-Pirate-Mink-Samurai Alliance']",Captain of the Musketeers,Alive,April 4,0,0,0,0,Grand Line,34.0,196.0,XF,,
 1306,Shojoe,226.0,"['Saruyama Alliance', 'Shoujou Pirates']",Pirate,Alive,May 8,0,0,0,0,South Blue,25.0,351.0,X,,36000000.0
 1307,Shu,426.0,['Marines'],Marine Captain,Alive,,1,0,0,0,,,,,Paramecia,100000000.0
@@ -1317,10 +1317,10 @@
 1315,Skull,552.0,"['Spade Pirates', 'Whitebeard Pirates']",Pirate Officer,Alive,,0,0,0,0,,,,,,
 1316,,,['Whitebeard Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
 1317,Smiley,668.0,['Caesar Clown'],"Pet, Bio-Chemical weapon of mass destruction",Deceased,July 18,1,0,0,0,,,,,Zoan,
-1318,"Smoker,Chaser",97.0,"['Marines', 'G-5', 'Loguetown']",Vice Admiral,Alive,March 14,1,0,0,0,Grand Line,34.0,209.0,XF,Logia,500000000.0
+1318,Smoker,97.0,"['Marines', 'G-5', 'Loguetown']",Vice Admiral,Alive,March 14,1,0,0,0,Grand Line,34.0,209.0,XF,Logia,500000000.0
 1319,Smoothy,668.0,"['Caesar Clown', 'Centaur Patrol Unit']",,Alive,,0,0,0,0,,,,,,
 1320,Snakeman,916.0,['Beasts Pirates'],Gifter,Alive,,1,0,0,0,,,,,Artificial Zoan,
-1321,"Sodomu,Sodom ",366.0,['Franky Family'],Transportation,Alive,August 6,0,0,0,0,,,,,,
+1321,Sodomu,366.0,['Franky Family'],Transportation,Alive,August 6,0,0,0,0,,,,,,
 1322,Solitaire,935.0,['Beasts Pirates'],Shinuchi,Alive,,1,0,0,0,,,,,Artificial Zoan,
 1323,Osome,1031.0,,Geisha,Alive,,0,0,0,0,,,,,,
 1324,Sonie,318.0,['Foxy Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
@@ -1336,8 +1336,8 @@
 1334,Speed Jil,553.0,['Whitebeard Pirates'],14th Division Commander,Alive,April 6,0,0,0,0,East Blue,,,,,
 1335,Spencer,966.0,['Roger Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
 1336,Sphinx,529.0,"['World Government', 'Impel Down']",Level 2 Guardian,Alive,,0,0,0,0,,,,,,
-1337,Splash and SplattaSplash and Splatter,610.0,,Pirates,Alive,January 18,0,0,0,0,,,,S (RH-),,
-1338,Splash and SplattaSplash and Splatter,610.0,,Pirates,Alive,January 18,0,0,0,0,,,,S (RH-),,
+1337,Splash and Splatter,610.0,,Pirates,Alive,January 18,0,0,0,0,,,,S (RH-),,
+1338,Splash and Splatter,610.0,,Pirates,Alive,January 18,0,0,0,0,,,,S (RH-),,
 1339,Spoil,448.0,"[""Thriller Bark Victim's Association""]",Chairman of Thriller Bark Victim's Association,Alive,September 15,0,0,0,0,,,,,,
 1340,Squard,551.0,"['Maelstrom Spider Pirates', 'Whitebeard Pirates']",Pirate Captain,Alive,September 6,0,0,0,0,Grand Line,52.0,228.0,F,,210000000.0
 1341,Stainless,96.0,['Marines'],Vice Admiral,Alive,,0,0,0,0,,,,,,500000000.0
@@ -1345,7 +1345,7 @@
 1343,Stansen,500.0,"['New Giant Warrior Pirates', 'Straw Hat Grand Fleet', ""Buggy's Delivery""]",Pirate,Alive,May 27,0,0,0,0,Grand Line,79.0,1950.0,,,
 1344,Stealth Black,931.0,['Germa 66'],,Alive,,0,0,0,0,,,,,,
 1345,Stephen,,['Whitebeard Pirates'],Pet,Alive,,0,0,0,0,,,,,,
-1346,StellySterry,586.0,,King of the Goa Kingdom,Alive,March 12,0,0,0,0,East Blue,8.0,180.0,S,,
+1346,Sterry,586.0,,King of the Goa Kingdom,Alive,March 12,0,0,0,0,East Blue,8.0,180.0,S,,
 1347,Staybe,361.0,['Water 7'],Station Manager,Alive,,0,0,0,0,,,,,,
 1348,,,,,,,0,0,0,0,,,,,,
 1349,Strawberry,420.0,['Marines'],Vice Admiral,Alive,January 5,0,0,0,0,,,,,,500000000.0
@@ -1354,12 +1354,12 @@
 1352,Stronger,223.0,['Blackbeard Pirates'],Doc Q's horse,Alive,April 16,1,0,0,0,,,,,Mythical Zoan,
 1353,Stussy,860.0,"['Vegapunk', 'CP0', 'Underworld', 'MADS']",Spy,Unknown,April 24,1,1,1,0,MADS Research,36.0,179.0,S,Zoan,
 1354,Su,239.0,[],Pet,Alive,September 24,0,0,0,0,,,,,,
-1355,SugamichiWarazane,931.0,"['Fujin', 'Raijin']",,Alive,,0,0,0,0,,,,,,
+1355,Warazane,931.0,"['Fujin', 'Raijin']",,Alive,,0,0,0,0,,,,,,
 1356,Sugar,682.0,['Donquixote Pirates'],Pirate Special Officer,Alive,October 22,1,0,0,0,North Blue,22.0,110.0,XF,Paramecia,
 1357,Wannabi Luvd,963.0,['Germ Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
 1358,Wannabi Laikd,963.0,['Germ Pirates'],Pirate Captain,Alive,,0,0,0,0,,,,,,
 1359,Suke,927.0,['Kyoshiro Family'],,Alive,,0,0,0,0,,,,,,
-1360,Loki ClowninLohkee Clownin,536.0,,Impel Down Guard,Alive,,0,0,0,0,,,,,,
+1360,Lohkee Clownin,536.0,,Impel Down Guard,Alive,,0,0,0,0,,,,,,
 1361,Sukune,1151.0,,Sumo Wrestler,Alive,,0,0,0,0,,,,,,
 1362,Suleiman,704.0,"['Beautiful Pirates', 'Underworld', 'Straw Hat Grand Fleet']",Pirate,Alive,January 30,0,0,0,0,South Blue,40.0,240.0,S,,67000000.0
 1363,Sambel,0.0,['Roger Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
@@ -1374,14 +1374,14 @@
 1372,Takao,927.0,['Kouzuki Hiyori'],Kamuro,Alive,,0,0,0,0,,,,,,
 1373,Take,75.0,['Arlong Pirates'],Pirate,Alive,August 21,0,0,0,0,Grand Line,,,,,
 1374,Tama,909.0,['Oide'],Pet,Alive,,0,0,0,0,,,,,,
-1375,"Tamachibi,Tama",134.0,[],,Alive,June 17,0,0,0,0,Grand Line,,,,,
+1375,Tamachibi,134.0,[],,Alive,June 17,0,0,0,0,Grand Line,,,,,
 1376,Tamago,651.0,['Big Mom Pirates'],Combatant,Alive,May 14,1,1,1,0,Grand Line,46.0,301.0,XF,Zoan,429000000.0
 1377,Tamagon,325.0,"['Galley-La Company', 'Franky Family']",Dismantler,Alive,,0,0,0,0,,,,,,
-1378,OnionTamanegi,23.0,['Usopp Pirates'],Pretend Pirate (formerly),Alive,April 10,0,0,0,0,East Blue,9.0,124.0,S,,
+1378,Tamanegi,23.0,['Usopp Pirates'],Pretend Pirate (formerly),Alive,April 10,0,0,0,0,East Blue,9.0,124.0,S,,
 1379,Tank Lepant,706.0,['Riku Family'],Army Commander (Viz: Military Captain),Alive,November 28,0,0,0,0,,,,,,
 1380,Tansui,197.0,"['Macro Pirates', 'Sun Pirates']",Pirate,Alive,,0,0,0,0,Grand Line,,,,,
 1381,,713.0,['Tontatta Kingdom'],,Alive,,0,0,0,0,,,,,,
-1382,"Taralan, Tararan",452.0,['Thriller Bark Pirates'],General Zombie,Deceased,,0,0,0,0,,,,,,
+1382,Tararan,452.0,['Thriller Bark Pirates'],General Zombie,Deceased,,0,0,0,0,,,,,,
 1383,Taro,0.0,['Roger Pirates'],Pirate,Unknown,,0,0,0,0,,,,,,
 1384,Taroimo,523.0,[],Cyborg animal,Alive,October 16,0,0,0,0,,,,,,
 1385,Tashigi,96.0,"['Marines', 'G-5', 'Loguetown']",Captain,Alive,October 6,0,1,1,0,East Blue,21.0,170.0,S,,100000000.0
@@ -1417,7 +1417,7 @@
 1415,Torasaburo,815.0,,,Deceased,,0,0,0,0,,,,,,
 1416,Tori,925.0,['Blackbeard Pirates'],Pirate,Alive,,0,0,0,0,,,,,,
 1417,Tosa,1089.0,['Marines'],Vice Admiral,Alive,,0,0,1,0,,,,,,500000000.0
-1418,"Toto,Toh-Toh,Tu-tu",163.0,['Koza'],Yuba villager,Alive,June 17,0,0,0,0,,,,,,
+1418,Tu-tu,163.0,['Koza'],Yuba villager,Alive,June 17,0,0,0,0,,,,,,
 1419,Totts,498.0,['Bonney Pirates'],Fishmonger (former),Alive,,0,0,0,0,South Blue,,,,,
 1420,Toyama Tsujigiro,909.0,,Magistrate,Unknown,,0,0,0,0,,,,,,
 1421,Trafalgar D. Water Law,498.0,"['Heart Pirates', 'Will of D.', 'Ninja-Pirate-Mink-Samurai Alliance', 'Seven Warlords of the Sea', 'Donquixote Pirates']",Pirate Captain,Alive,October 6,1,1,1,0,North Blue,24.0,191.0,F,Paramecia,3000000000.0
@@ -1467,7 +1467,7 @@
 1465,Uzu,658.0,,,Alive,,0,0,0,0,,,,,,
 1466,Uzuki Namida,949.0,['Uzuki Family'],Samurai,Alive,,0,0,0,0,,,,,,
 1467,Uzuki Tempura,1024.0,['Uzuki Family'],Samurai,Deceased,July 23,0,0,1,0,Grand Line,,334.0,X,,
-1468,Van AugurVan OgreVan Auger,222.0,['Blackbeard Pirates'],Titanic Captain (Captain of the Third Ship),Alive,October 5,1,0,0,0,East Blue,25.0,340.0,X,Paramecia,64000000.0
+1468,Van Auger,222.0,['Blackbeard Pirates'],Titanic Captain (Captain of the Third Ship),Alive,October 5,1,0,0,0,East Blue,25.0,340.0,X,Paramecia,64000000.0
 1469,Vander Decken,606.0,['Flying Dutchman'],Captain,Deceased,,0,0,0,0,,,,,,
 1470,Vander Decken IX,606.0,"['Flying Pirates', 'New Fish-Man Pirates']",Pirate,Alive,August 22,1,0,0,0,Grand Line,35.0,352.0,XF,Paramecia,0.0
 1471,Vasco Shot,575.0,"['Blackbeard Pirates', 'Impel Down']",Titanic Captain (Captain of the Eighth Ship),Alive,August 5,1,0,0,0,South Blue,36.0,573.0,X,Paramecia,0.0
@@ -1499,14 +1499,14 @@
 1497,Wanze,367.0,['CP7'],Cipher Pol Agent,Alive,September 4,0,0,0,0,West Blue,26.0,173.0,F,,
 1498,Wapol,131.0,"['Evil Black Drum Kingdom', 'Drum Kingdom', 'Bliking Pirates']",King of the Evil Black Drum Kingdom,Alive,August 9,1,0,0,0,Grand Line,27.0,207.0,X,Paramecia,
 1499,Warashi,269.0,['Shandia'],Shandia Warrior,Alive,,0,0,0,0,,,,,,
-1500,SugamichiWarazane,931.0,"['Fujin', 'Raijin']",,Alive,,0,0,0,0,,,,,,
+1500,Warazane,931.0,"['Fujin', 'Raijin']",,Alive,,0,0,0,0,,,,,,
 1501,Warrior God,1175.0,,,Deceased,,1,0,0,0,,,,,Mythical Zoan,
 1502,Waruno Furishiro,926.0,,,Alive,,0,0,0,0,,,,,,
 1503,Wellington,763.0,,Pirate,Unknown,,0,0,0,0,,,,,,10000000.0
 1504,Wheel,906.0,['Levely'],Prince,Alive,,0,0,0,0,,,,,,
 1505,Whitey Bay,556.0,['Whitebeard Pirates'],Pirate,Alive,October 31,0,0,0,0,,,,,,0.0
 1506,Who's-Who,977.0,"['Beasts Pirates', 'Beast Pirates', ""Who's-Who Pirates"", 'CP9']",Shinuchi,Alive,March 15,1,1,1,0,North Blue,38.0,336.0,F,Ancient Zoan,546000000.0
-1507,WickaWicca,705.0,"['Tontatta Kingdom', 'Straw Hat Grand Fleet']",Scout,Alive,,0,0,0,0,,27.0,,,,
+1507,Wicca,705.0,"['Tontatta Kingdom', 'Straw Hat Grand Fleet']",Scout,Alive,,0,0,0,0,,27.0,,,,
 1508,,,,,,,0,0,0,0,,,,,,
 1509,Wire,500.0,"['Kid Pirates', 'Ninja-Pirate-Mink-Samurai Alliance']",Pirate,Unknown,July 18,0,0,0,0,South Blue,,,,,
 1510,Wolf,1142.0,['Walrus School'],Gym Teacher,Alive,,0,0,0,0,,,,,,
